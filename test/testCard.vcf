@@ -25,13 +25,14 @@ TITLE;CHARSET=UTF-8:Crash Test Dummy
 ROLE;CHARSET=UTF-8:Crash Testing
 ORG;CHARSET=UTF-8:ACME Corporation
 URL;CHARSET=UTF-8:http://johndoe
+URL;type=Lets Rolo Card;CHARSET=UTF-8:http://yahoo.com
 URL;type=WORK;CHARSET=UTF-8:http://acemecompany/johndoe
 NOTE;CHARSET=UTF-8:John Doe's \nnotes\;\,
-X-SOCIALPROFILE;TYPE=facebook:https://facebook/johndoe
-X-SOCIALPROFILE;TYPE=linkedIn:https://linkedin/johndoe
-X-SOCIALPROFILE;TYPE=twitter:https://twitter/johndoe
-X-SOCIALPROFILE;TYPE=flickr:https://flickr/johndoe
-X-SOCIALPROFILE;TYPE=custom:https://custom/johndoe
+X-SOCIALPROFILE:TYPE=facebook:https://facebook/johndoe
+X-SOCIALPROFILE:TYPE=linkedIn:https://linkedin/johndoe
+X-SOCIALPROFILE:TYPE=twitter:https://twitter/johndoe
+X-SOCIALPROFILE:TYPE=flickr:https://flickr/johndoe
+X-SOCIALPROFILE:TYPE=custom:https://custom/johndoe
 SOURCE;CHARSET=UTF-8:http://sourceurl
-REV:2019-01-04T20:18:50.127Z
+REV:2022-04-13T05:31:33.671Z
 END:VCARD
